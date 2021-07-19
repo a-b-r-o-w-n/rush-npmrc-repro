@@ -1,0 +1,12 @@
+{
+  "name": "rush-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "update": "node common/scripts/install-run-rush.js update"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
